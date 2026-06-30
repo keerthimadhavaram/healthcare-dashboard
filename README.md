@@ -1,33 +1,92 @@
-# Hi, I'm Keerthi Madhavaram 👋
+# 🏥 Healthcare Analytics Dashboard
 
-## Data Analyst | Healthcare Analytics | Business Intelligence
+## Project Overview
 
-I'm a Data Analyst with 4+ years of experience transforming complex healthcare, operational, and business data into actionable insights using SQL, Python, Power BI, Snowflake, Azure Data Factory, Databricks, and data visualization tools.
+This project demonstrates how healthcare operational data can be analyzed using SQL and Power BI to monitor operational performance, patient utilization, and key healthcare KPIs.
 
-I enjoy building scalable ETL pipelines, automating reporting workflows, creating KPI dashboards, validating data quality, and helping stakeholders make faster data-driven decisions.
+The dashboard helps healthcare administrators monitor trends, identify bottlenecks, and make data-driven decisions that improve operational efficiency.
 
-## 🔧 Technical Skills
+---
 
-**Programming & Querying:** SQL, Python  
-**BI & Visualization:** Power BI, Tableau, Excel, DAX  
-**Data Engineering:** ETL, Data Pipelines, Data Modeling, Data Validation, Workflow Automation  
-**Cloud & Platforms:** Snowflake, Azure Data Factory, Databricks, PySpark  
-**Python Libraries:** Pandas, NumPy, Scikit-learn  
-**Healthcare Analytics:** EHR Data, KPI Reporting, HIPAA-aware Reporting, Clinical & Operational Analytics  
+## Business Problem
 
-## 📌 Featured Projects
+Healthcare organizations generate large amounts of clinical and operational data every day. Without proper analytics, it becomes difficult to monitor patient flow, appointment utilization, readmission rates, and operational performance.
 
-| Project | Tools | Focus |
-|---|---|---|
-| Healthcare Analytics Dashboard | SQL, Power BI | Patient flow, readmissions, utilization KPIs |
-| Patient No-Show Prediction | Python, Scikit-learn | Predictive analytics and ML |
-| ETL Pipeline Automation | Python, SQL | Data ingestion, cleaning, validation |
-| Advanced SQL Portfolio | SQL | Joins, CTEs, window functions |
-| Data Quality Framework | Python, SQL | Validation and reconciliation |
-| Sales Analytics Dashboard | Power BI, SQL | Revenue and campaign analytics |
+This project provides an interactive dashboard to help healthcare leaders make informed decisions using data.
 
-## 📫 Connect with Me
+---
 
-**LinkedIn:** Add your LinkedIn URL here  
-**Email:** keerthim1602@gmail.com  
-**Location:** Woodridge, Illinois, United States
+## Technologies Used
+
+- SQL
+- Power BI
+- Excel
+- Data Analysis
+- KPI Reporting
+
+---
+
+## Dataset
+
+Sample healthcare dataset containing:
+
+- Patient ID
+- Appointment Date
+- Department
+- Appointment Status
+- Insurance Type
+- Wait Time
+- Readmission Status
+
+---
+
+## Key Performance Indicators (KPIs)
+
+- Total Appointments
+- No-Show Rate
+- Readmission Rate
+- Average Wait Time
+- Department Performance
+- Patient Volume
+- Insurance Distribution
+
+---
+
+## Repository Structure
+
+```text
+healthcare-dashboard/
+│
+├── data/
+├── sql/
+├── powerbi/
+├── images/
+└── README.md
+```
+
+---
+
+## Business Insights
+
+- Identify departments with high patient volume.
+- Monitor appointment utilization.
+- Track readmission trends.
+- Analyze wait time by department.
+- Improve operational efficiency using KPI dashboards.
+
+---
+
+## Future Improvements
+
+- Add interactive Power BI dashboard
+- Add SQL optimization
+- Add DAX measures
+- Publish dashboard screenshots
+
+---
+
+## Author
+
+**Keerthi Madhavaram**
+
+Data Analyst | Healthcare Analytics | Business Intelligence
